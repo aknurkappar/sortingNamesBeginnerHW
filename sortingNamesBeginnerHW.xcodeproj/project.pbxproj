@@ -16,6 +16,9 @@
 		FF67BCF12ACF059000FA07ED /* sortingNamesBeginnerHWTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF67BCF02ACF059000FA07ED /* sortingNamesBeginnerHWTests.swift */; };
 		FF67BCFB2ACF059000FA07ED /* sortingNamesBeginnerHWUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF67BCFA2ACF059000FA07ED /* sortingNamesBeginnerHWUITests.swift */; };
 		FF67BCFD2ACF059000FA07ED /* sortingNamesBeginnerHWUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF67BCFC2ACF059000FA07ED /* sortingNamesBeginnerHWUITestsLaunchTests.swift */; };
+		FF67BD0A2ACF11F900FA07ED /* StudentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF67BD092ACF11F900FA07ED /* StudentCell.swift */; };
+		FF67BD0C2ACF140800FA07ED /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF67BD0B2ACF140800FA07ED /* Student.swift */; };
+		FF67BD0E2ACF218F00FA07ED /* customOptionButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF67BD0D2ACF218F00FA07ED /* customOptionButtons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		FF67BCF62ACF059000FA07ED /* sortingNamesBeginnerHWUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sortingNamesBeginnerHWUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF67BCFA2ACF059000FA07ED /* sortingNamesBeginnerHWUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sortingNamesBeginnerHWUITests.swift; sourceTree = "<group>"; };
 		FF67BCFC2ACF059000FA07ED /* sortingNamesBeginnerHWUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sortingNamesBeginnerHWUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FF67BD092ACF11F900FA07ED /* StudentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentCell.swift; sourceTree = "<group>"; };
+		FF67BD0B2ACF140800FA07ED /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		FF67BD0D2ACF218F00FA07ED /* customOptionButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customOptionButtons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +112,9 @@
 				FF67BCE22ACF058F00FA07ED /* Assets.xcassets */,
 				FF67BCE42ACF058F00FA07ED /* LaunchScreen.storyboard */,
 				FF67BCE72ACF058F00FA07ED /* Info.plist */,
+				FF67BD092ACF11F900FA07ED /* StudentCell.swift */,
+				FF67BD0B2ACF140800FA07ED /* Student.swift */,
+				FF67BD0D2ACF218F00FA07ED /* customOptionButtons.swift */,
 			);
 			path = sortingNamesBeginnerHW;
 			sourceTree = "<group>";
@@ -261,6 +270,9 @@
 				FF67BCDE2ACF058C00FA07ED /* ViewController.swift in Sources */,
 				FF67BCDA2ACF058C00FA07ED /* AppDelegate.swift in Sources */,
 				FF67BCDC2ACF058C00FA07ED /* SceneDelegate.swift in Sources */,
+				FF67BD0C2ACF140800FA07ED /* Student.swift in Sources */,
+				FF67BD0A2ACF11F900FA07ED /* StudentCell.swift in Sources */,
+				FF67BD0E2ACF218F00FA07ED /* customOptionButtons.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
